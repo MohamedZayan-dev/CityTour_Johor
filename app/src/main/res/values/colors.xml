@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorRestaurants">#ffcc06</color>
+    <color name="colorMalls">#802d9e</color>
+    <color name="colorsHistorical">#186b82</color>
+    <color name="colorsOthers">#891e4c</color>
+</resources>
